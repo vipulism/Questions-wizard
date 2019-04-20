@@ -1,0 +1,1 @@
+class Question{constructor(s){Object.assign(this,s),this.selectedOptIndex=null}}

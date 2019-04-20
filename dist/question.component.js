@@ -1,0 +1,1 @@
+class Question{constructor(t){Object.assign(this,t),this.selectedOptIndex=null}submit(){alert("submit")}}export default Question;
